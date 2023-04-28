@@ -1,5 +1,3 @@
-# Pure CSS | Jake's Instagram
+fuck it bro......!!!!!!!!!!!!!!!!!!!! 
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/kotAndy/pen/gOBgXvO](https://codepen.io/kotAndy/pen/gOBgXvO).
-
-There is an animating carousel of Jake's "photos" that resembles the Instagram post, using only scss.
+aag laga daaal sun  meri baat roar maare ya daurd maar ziondagi mai aage bardna hai meri jaan toh pdai toh krna pdngi meri jaan aaaah merii jaaaann......!!!!!!!!!!!!!!!!!!!
